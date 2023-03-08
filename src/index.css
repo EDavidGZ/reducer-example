@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.spaceIn{
+  margin: 1rem;
+}
+.buton1 {
+  font-size: 2rem;
+}
